@@ -1,12 +1,13 @@
 Precursors:
 
 * Set up sponsorship pages and levels and add some PR
-* Come up with boilerplate page with badges?
-* Add sponsorship information
-* Set up blog template, design, images, etc
-* comments!
+* Come up with boilerplate page
+* list "primary projects"
+* Add sponsorship information to each primary project
+* Set up blog template, design, images, comments!
 * Figure out how to develop essays on a private branch
 * Write 8-12 essays not including Hello.
+
 * Set up a release schedule with specific times
 * Create a list of outlet to publish to and times to publish it.
 
@@ -35,8 +36,9 @@ Precursors:
 
   * Series - Python: My golden hammers
     * dataclasses and datacls
-    * cached_property and dataclasses
+    * cached_property and dataclasses (and cache)
     * typer and dtyper
+    * a little itertools
 
 * Git (7)
   * In praise of anonymous commits
@@ -87,23 +89,25 @@ Precursors:
     * The browser
     * The program
 
-* Showcase (15)
-  * plur
+* Showcase (17)
   * tdir
+  * safer
   * impall
   * xmod
 
-  * safer
-  * nmbr
+  * datacls
+  * dek
+  * sproc
+
+  * nmr
   * dtyper
   * wavemap
+  * plur
 
   * vl8
   * editor
   * def_main
   * nc
-
-  * datacls
 
   * gitz
     * git-new
@@ -111,4 +115,4 @@ Precursors:
     * git-copy, git-rename, git-delete
 
 
-total = 19 + 7 + 22 + 15 = 62
+total = 19 + 7 + 22 + 17 = 62
