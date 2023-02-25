@@ -1,4 +1,4 @@
-AUTHOR = 'Tom Ritchford (tom@swirly.com)'
+AUTHOR = 'Tom Ritchford'
 SITENAME = 'On computer programming'
 SITEURL = ''
 
@@ -16,14 +16,15 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'https://getpelican.com/'),
-         ('Python.org', 'https://www.python.org/'),
-         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (
+    ('Python.org', 'https://www.python.org/'),
+)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (
+    ('github', 'https://github.com/rec'),
+    ('Mastodon', 'https://toot.community/@TomSwirly'),
+)
 
 DEFAULT_PAGINATION = 12
 
